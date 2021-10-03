@@ -1,4 +1,4 @@
-## First part and Second of Dependency Principle?
+## First part and Second part of Dependency Principle?
 - High level modules should not depend upon low level modules. Both should depen upon abstractions.
 - Abstractions should not depend upon details. Details should depen upon abstractions.
 
