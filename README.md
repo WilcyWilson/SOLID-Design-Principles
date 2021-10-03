@@ -9,4 +9,4 @@ SOLID Principles is a coding standard that all developers should have a clear co
 
 ## [I ---> Interface Segregation Principle](https://github.com/WilcyWilson/SOLID-Design-Principles/blob/master/InterfaceSegregationPrinciple/README.md)
 
-## [D ---> Dependency Inversion Principle](https://github.com/WilcyWilson/SOLID-Design-Principles/blob/master/SDependencyInversionPrinciple/README.md)
+## [D ---> Dependency Inversion Principle](https://github.com/WilcyWilson/SOLID-Design-Principles/blob/master/DependencyInversionPrinciple/README.md)
